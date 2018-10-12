@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "report",
+    "description": "a currently clone",
+    "version": "1.2",
+    "content_scripts": [{
+	"matches": ["http://www.watertestcloud.com:8080/WQIMC-TEST/page/report/"],
+	"js":["report.js"]
+    }],
+    "browser_action": {
+        "default_icon":"logo.png"
+	}
+}
