@@ -8,3 +8,6 @@ github上有一个按照 MD 设计规范编写的一个UI 库 `JFoenix`，从它
 
 - [快速概览](./dataFx/快速概览.md)
 - [DataFx 8学习笔记一](./dataFx/DataFx8学习笔记一.md)
+- [DataFx 8学习笔记二](./dataFx/DataFx8学习笔记二.md)
+- [DataFx 8学习笔记三](./dataFx/DataFx8学习笔记三.md)
+- [DataFx 8学习笔记四](./dataFx/DataFx8学习笔记四.md)
